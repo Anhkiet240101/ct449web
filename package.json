@@ -1,0 +1,27 @@
+{
+  "name": "projectcc",
+  "version": "1.0.0",
+  "description": "baobui",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongodb": "^4.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yozarku/cai-dat-du-an-2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Yozarku/cai-dat-du-an-2/issues"
+  },
+  "homepage": "https://github.com/Yozarku/cai-dat-du-an-2#readme"
+}
